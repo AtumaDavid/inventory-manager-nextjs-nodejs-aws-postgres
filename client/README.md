@@ -9,6 +9,9 @@
 - recharts
 - uuid
 - axios
+- redux (npm install react-redux @reduxjs/toolkit)
+- dotenv
+- redux-persist
 
 # Dev Dependencies
 

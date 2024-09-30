@@ -1,1 +1,1 @@
-![data modeling](/InventoryManager.png)
+

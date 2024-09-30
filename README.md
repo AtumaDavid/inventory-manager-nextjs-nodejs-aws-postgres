@@ -1,1 +1,1 @@
-(image.png)
+![data modeling](./image.png)

@@ -19,3 +19,7 @@
 - @types/uuid
 - @types/numeral
 - tw-colors
+
+## API
+
+- using Redux query to consume api

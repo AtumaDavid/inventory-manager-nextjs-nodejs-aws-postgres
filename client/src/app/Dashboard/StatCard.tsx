@@ -40,7 +40,7 @@ const StatCard = ({
         <hr />
       </div>
 
-      {/* BODY */}
+      {/* BODYYY */}
       <div className="flex mb-6 items-center justify-around gap-4 px-5">
         <div className="rounded-full p-5 bg-blue-50 border-sky-300 border-[1px]">
           {primaryIcon}

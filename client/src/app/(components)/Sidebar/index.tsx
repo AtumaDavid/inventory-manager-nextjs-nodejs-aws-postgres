@@ -119,7 +119,7 @@ export default function Sidebar() {
           isCollapsed={isSidebarCollapsed}
         /> */}
         <SidebarLink
-          href="/useAppSelector"
+          href="/users"
           icon={User}
           label="Users"
           isCollapsed={isSidebarCollapsed}

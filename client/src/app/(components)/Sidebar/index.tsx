@@ -30,7 +30,7 @@ const SidebarLink = ({
 }: SidebarLinkProps) => {
   const pathname = usePathname();
   const isActive =
-    pathname === href || (pathname === "/" && href === "/dashboard");
+    pathname === href || (pathname === "/" && href === "/dashboards");
 
   return (
     <Link href={href}>
@@ -95,7 +95,7 @@ export default function Sidebar() {
       {/* LINKS */}
       <div className="flex-grow mt-8">
         <SidebarLink
-          href="/dashboard"
+          href="/dashboards"
           icon={Layout}
           label="Dashboard"
           isCollapsed={isSidebarCollapsed}
